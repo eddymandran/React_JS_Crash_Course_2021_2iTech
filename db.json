@@ -17,6 +17,12 @@
       "day": "Monday",
       "reminder": false,
       "id": 3
+    },
+    {
+      "text": "Test task",
+      "day": "03/01/2022 à 09h00",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
