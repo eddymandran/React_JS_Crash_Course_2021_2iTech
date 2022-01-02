@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> React JS Crash Course 2021 from Youtube (https://youtu.be/w7ejDZ8SWv8).We will be building a task tracker app and look at components, props, state, hooks, working with an API and more.
+> React JS Crash Course 2021 from Youtube (https://youtu.be/w7ejDZ8SWv8). We will be building a task tracker app and look at components, props, state, hooks, working with an API and more.
 
 ## Install
 
